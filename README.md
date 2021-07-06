@@ -23,11 +23,17 @@
  The problem is to find the frequencies of each element of the Array of string
  The complexity of this approach is O(n)
  
+ Start.
+ 
  Step 1. Create a container data structure hash table in c language which has key:value pair as element: frequency
+ 
  Step 2. Read the elements of Array
+ 
  Step 3. if element not found in the hash table store the element as {element:frequency} and frequency = 1
+ 
  Step 4. if element found in the hash table then update the frequency as frquency=frequency+1
+ 
  Step 5. Print the elements and its frequency
  
- 
+ End.
  
