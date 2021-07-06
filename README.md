@@ -16,8 +16,11 @@
  To solve this there are many approaches but these two mostly used:
  
   1.Use linked list to stroe the values
+  
       Linked list uses extra memory to stroe the values and traversing linked list is relatively slow. 
+      
   2.Use linear probing
+  
       Linear probing is simple and fast.If try to insert the element but that there already element exist then move to next slot.If next slot is full too then move along again,         until find an empty one, wrapping arround to the beginning if hit the end of the array.
 
  The problem is to find the frequencies of each element of the Array of string
