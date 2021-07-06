@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1625542971 source:c:\users\skyad\desktop\1stzoom\c_algo\algo\ht.c
+	"ht.h"
+	<assert.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1625542850 source:c:\users\skyad\desktop\1stzoom\c_algo\algo\main.c
+	"ht.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1625541893 c:\users\skyad\desktop\1stzoom\c_algo\algo\ht.h
+	<stdbool.h>
+	<stddef.h>
+
